@@ -1,4 +1,4 @@
-# Color-Bar-with-VGA-on-Basys3-
+# Color-Bar-with-VGA-on-Basys3
 
 Features
 • VGA 640×480 @60Hz output
