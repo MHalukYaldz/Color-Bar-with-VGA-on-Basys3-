@@ -1,8 +1,7 @@
 # Color-Bar-with-VGA-on-Basys3
 
 
-![Uploading Gemini_Generated_Image_lt1f7wlt1f7wlt1f.png…]()
-
+<img width="2390" height="1792" alt="Gemini_Generated_Image_lt1f7wlt1f7wlt1f" src="https://github.com/user-attachments/assets/e54c7aad-8bab-46d2-bce9-dad0370b4617" />
 
 
 
