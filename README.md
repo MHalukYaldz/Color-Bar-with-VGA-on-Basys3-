@@ -33,10 +33,9 @@ This project implements a VGA Color Bar Generator in VHDL for the Digilent Basys
 
 ```text
 src/
-├── ClockDivider.vhd      # Generates the 25 MHz pixel clock
-├── VGAController.vhd     # VGA timing generation
-├── BallEngine.vhd        # Ball movement and collision detection
-└── BouncingBall.vhd      # Top-level graphics module
+├── ClockDivider.vhd # Generates the 25 MHz pixel clock
+├── VGAController.vhd # Generates VGA timing and synchronization signals
+└── ColorBar.vhd # Produces RGB color bar patterns
 ```
 
 ---
