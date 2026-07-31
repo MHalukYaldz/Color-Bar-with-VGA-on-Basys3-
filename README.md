@@ -1,5 +1,12 @@
 # Color-Bar-with-VGA-on-Basys3
 
+
+https://github.com/user-attachments/assets/c27a96ed-f64e-4ff5-857a-69faea96434a
+
+
+
+
+
 Features
 • VGA 640×480 @60Hz output
 • 25 MHz pixel clock generation
