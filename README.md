@@ -1,7 +1,8 @@
 # Color-Bar-with-VGA-on-Basys3
 
 
-https://github.com/user-attachments/assets/c27a96ed-f64e-4ff5-857a-69faea96434a
+![Uploading Gemini_Generated_Image_lt1f7wlt1f7wlt1f.png…]()
+
 
 
 
