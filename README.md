@@ -2,7 +2,7 @@
 
 This project implements a VGA Color Bar Generator in VHDL for the Digilent Basys3 FPGA development board. The design generates VGA synchronization signals and displays RGB color bars on a 640×480 @60Hz monitor.
 
-<img width="2390" height="1792" alt="Gemini_Generated_Image_lt1f7wlt1f7wlt1f" src="https://github.com/user-attachments/assets/e54c7aad-8bab-46d2-bce9-dad0370b4617" />
+<img width="2390" height="1792" alt="VGA Color Bar Project" src="https://github.com/user-attachments/assets/b062e6d1-6845-42b1-98ad-bd132b013051" />
 
 ---
 
