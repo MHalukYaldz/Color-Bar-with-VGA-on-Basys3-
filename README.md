@@ -31,9 +31,6 @@ This project implements a VGA Color Bar Generator in VHDL for the Digilent Basys
 
 ## Project Structure
 
-
-## Project Structure
-
 ```text
 src/
 ├── ClockDivider.vhd      # Generates the 25 MHz pixel clock from the 100 MHz board clock
